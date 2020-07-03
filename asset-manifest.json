@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13f10fda.chunk.css",
+    "main.js": "/static/js/main.65482fc8.chunk.js",
+    "main.js.map": "/static/js/main.65482fc8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1c4dadcd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1c4dadcd.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.520d8218.chunk.js": "/static/js/2.520d8218.chunk.js",
+    "static/js/2.520d8218.chunk.js.map": "/static/js/2.520d8218.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b86ce68b644af656fe2fc11a3508e986.js": "/precache-manifest.b86ce68b644af656fe2fc11a3508e986.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.13f10fda.chunk.css.map": "/static/css/main.13f10fda.chunk.css.map",
+    "static/js/2.520d8218.chunk.js.LICENSE.txt": "/static/js/2.520d8218.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/airstrike.4d3a3a84.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c4dadcd.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.520d8218.chunk.js",
+    "static/css/main.13f10fda.chunk.css",
+    "static/js/main.65482fc8.chunk.js"
+  ]
+}
